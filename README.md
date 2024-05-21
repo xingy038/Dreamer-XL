@@ -1,6 +1,6 @@
 # Dreamer XL: Towards High-Resolution Text-to-3D Generation via Trajectory Score Matching
 
-[Paper PDF (Arxiv)](https://arxiv.org/abs/2311.11284)
+[Paper PDF (Arxiv)](https://arxiv.org/abs/2405.11252)
 
 The code will be released coming soon.
 
