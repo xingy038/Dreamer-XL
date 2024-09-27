@@ -1,0 +1,4 @@
+# ninja log v5
+1	13911	1712589186228873669	/home2/btmb62/project/LucidDreamer/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/simple_knn.o	e1714559178989f8
+1	24001	1712589196324407502	/home2/btmb62/project/LucidDreamer/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/ext.o	419ee27ef622977
+1	61570	1712589233898672374	/home2/btmb62/project/LucidDreamer/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/spatial.o	f67d79c58226c2fb
