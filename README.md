@@ -41,7 +41,7 @@ dog.yaml
 Iron_Man.yaml
 ```
 
-
+## Citation 
 ```latex
 @misc{miao2024dreamer,
       title={Dreamer XL: Towards High-Resolution Text-to-3D Generation via Trajectory Score Matching}, 
@@ -52,3 +52,10 @@ Iron_Man.yaml
       primaryClass={cs.CV}
 }
 ```
+
+## Acknowledgement
+This work is built on many amazing research works and open-source projects:
+- [LucidDreamer](https://github.com/EnVision-Research/LucidDreamer/tree/main)
+- [PGC-3D](https://github.com/fudan-zvg/PGC-3D)
+
+Thanks for their excellent work and great contribution to 3D generation area.
